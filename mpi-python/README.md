@@ -1,6 +1,6 @@
 # Universidad EAFIT
 # Curso ST0263 Tópicos Especiales en Telemática, 2019-1
-# Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
+# Profesor: Edwin Montoya M. – emontoya@eafit.edu.co y Alvaro Ospina - aeospinas@eafit.edu.co
 # Laboratorio de MPI en Python
 
 ## se debe tener instalada la libreria MPI4PY:
