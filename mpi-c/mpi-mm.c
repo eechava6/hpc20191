@@ -9,7 +9,7 @@
 
 MPI_Status status;
 
-main(int argc, char **argv)
+main(int argc, char const *argv[])
 {
 
   int numtasks,taskid,numworkers,source,dest,rows,offset,i,j,k;
