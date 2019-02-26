@@ -14,7 +14,7 @@ main(int argc, char **argv)
 
   int numtasks,taskid,numworkers,source,dest,rows,offset,i,j,k;
 
-  struct timeval start, stop;
+  double start, stop;
 
   int N = atof(argv[1]);
   double a[N][N], b[N][N], c[N][N];
@@ -34,7 +34,7 @@ main(int argc, char **argv)
       }
     }
 
-    gettimeofday(&start, 0);
+    start = MPI_Wtime();
 
     /* send matrix data to the worker tasks */
     rows = N/numworkers;
@@ -58,7 +58,7 @@ main(int argc, char **argv)
       MPI_Recv(&c[offset][0], rows*N, MPI_DOUBLE, source, 2, MPI_COMM_WORLD, &status);
     }
 
-    gettimeofday(&stop, 0);
+    start = MPI_Wtime();
 
     printf("Here is the result matrix:\n");
     for (i=0; i<N; i++) {
@@ -67,9 +67,7 @@ main(int argc, char **argv)
       printf ("\n");
     }
 
-    fprintf(stdout,"Time = %.6f\n\n",
-         (stop.tv_sec+stop.tv_usec*1e-6)-(start.tv_sec+start.tv_usec*1e-6));
-
+    printf("TOTAL time: %lf\n", stop - start);
   }
 
   /*---------------------------- worker----------------------------*/
