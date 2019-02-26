@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include “mpi.h”
+#include "mpi.h"
 
 int main(int argc, char const *argv[])
 {
