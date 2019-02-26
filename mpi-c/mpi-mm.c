@@ -4,6 +4,7 @@
 
 
 #include <stdio.h>
+#include <time.h>
 #include "mpi.h"
 
 MPI_Status status;
