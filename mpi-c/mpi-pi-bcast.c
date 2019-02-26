@@ -6,13 +6,13 @@ int main(int argc, char const *argv[])
 {
     int pid, npr, i, n;
     double PI = 3.1415926536;
-    double h, ×, pi_loc, pi_glob, sum;
+    double h,x, pi_loc, pi_glob, sum;
 
     MPI_Init(&argc, &argv);
     MPI_Comm_rank(MPI_COMM_WORLD, &pid);
     MPI_Comm_size(MPI_COMM_WORLD, &npr);
 
-    int n = atof(argv[1]);
+    n = atof(argv[1]);
 
     MPI_Bcast(&n, 1, MPI_INT, 0, MPI_COMM_WORLD);
     h = 1.0 / (double)n;
