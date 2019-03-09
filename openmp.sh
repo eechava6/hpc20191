@@ -30,14 +30,14 @@ done
 }
 
 
-for i in 1 2 3 4 8 12 16 24
+for i in 4 8 12 16 24
 do
-  >&2 echo "Openmp $1 Threads"
+  >&2 echo "Openmp $i Threads"
   echo "THREADS = $i"
   export OMP_NUM_THREADS=$i
   echo $OMP_NUM_THREADS
   iterations
   echo "END THREADS = $i"
   echo "__________________________"
-  >&2 echo "END Openmp $1 Threads"
+  >&2 echo "END Openmp $i Threads"
 done
