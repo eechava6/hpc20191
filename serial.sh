@@ -19,8 +19,8 @@ echo "_____________________________"
 
 for i in 1 2 3 4 5
 do
-  time ./mmserial 10000
-  echo "Serial 10k x 10k iteration: $i"
+  time ./mmserial 5000
+  echo "Serial 5k x 5k iteration: $i"
 done
 echo "_____________________________"
 
