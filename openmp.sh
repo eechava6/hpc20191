@@ -1,12 +1,12 @@
 #!/bin/bash
 
-gcc openmp/openmp-mm.c -o openmp -fopenmp    
+gcc openmp/openmp-mm.c -o mmopenmp -fopenmp    
 
 iterations()
 {
 for i in 1 2 3 4 5
 do
-  time ./openmp 1000
+  time ./mmopenmp 1000
   >&2 echo "openmp 1k $i"
   echo "openmp 1k x 1k iteration: $i"
 done
@@ -15,7 +15,7 @@ done
 
 for i in 1 2 3 4 5
 do
-  time ./openmp 4000
+  time ./mmopenmp 4000
   >&2 echo "openmp 4k $i"
   echo "openmp 4k x 4k iteration: $i"
 done
@@ -23,7 +23,7 @@ done
 
 for i in 1 2 3 4 5
 do
-  time ./openmp 5000
+  time ./mmopenmp 5000
   >&2 echo "openmp 5k $1"
   echo "openmp 5k x 5k iteration: $i"
 done
