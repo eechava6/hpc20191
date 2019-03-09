@@ -1,0 +1,385 @@
+Openmp 4 Threads
+
+real	0m1.092s
+user	0m4.250s
+sys	0m0.002s
+openmp 1k 1
+
+real	0m1.005s
+user	0m3.917s
+sys	0m0.003s
+openmp 1k 2
+
+real	0m1.003s
+user	0m3.911s
+sys	0m0.006s
+openmp 1k 3
+
+real	0m1.004s
+user	0m3.914s
+sys	0m0.007s
+openmp 1k 4
+
+real	0m1.002s
+user	0m3.915s
+sys	0m0.004s
+openmp 1k 5
+
+real	1m3.311s
+user	4m11.925s
+sys	0m0.027s
+openmp 4k 1
+
+real	1m3.458s
+user	4m12.339s
+sys	0m0.029s
+openmp 4k 2
+
+real	1m3.328s
+user	4m11.996s
+sys	0m0.024s
+openmp 4k 3
+
+real	1m3.391s
+user	4m12.244s
+sys	0m0.026s
+openmp 4k 4
+
+real	1m3.577s
+user	4m12.965s
+sys	0m0.043s
+openmp 4k 5
+
+real	2m2.631s
+user	8m8.165s
+sys	0m0.041s
+openmp 5k 
+
+real	2m2.672s
+user	8m8.294s
+sys	0m0.064s
+openmp 5k 
+
+real	2m4.166s
+user	8m11.939s
+sys	0m0.070s
+openmp 5k 
+
+real	2m3.267s
+user	8m9.183s
+sys	0m0.047s
+openmp 5k 
+
+real	2m2.445s
+user	8m7.530s
+sys	0m0.053s
+openmp 5k 
+END Openmp 5 Threads
+Openmp 8 Threads
+
+real	0m1.044s
+user	0m6.014s
+sys	0m0.008s
+openmp 1k 1
+
+real	0m1.049s
+user	0m6.021s
+sys	0m0.007s
+openmp 1k 2
+
+real	0m0.980s
+user	0m5.216s
+sys	0m0.005s
+openmp 1k 3
+
+real	0m1.043s
+user	0m6.001s
+sys	0m0.004s
+openmp 1k 4
+
+real	0m0.998s
+user	0m5.778s
+sys	0m0.004s
+openmp 1k 5
+
+real	0m49.767s
+user	5m26.802s
+sys	0m0.047s
+openmp 4k 1
+
+real	0m54.853s
+user	5m47.745s
+sys	0m0.042s
+openmp 4k 2
+
+real	0m59.422s
+user	6m3.963s
+sys	0m0.049s
+openmp 4k 3
+
+real	1m0.585s
+user	5m59.247s
+sys	0m0.034s
+openmp 4k 4
+
+real	0m46.317s
+user	5m20.727s
+sys	0m0.058s
+openmp 4k 5
+
+real	1m52.942s
+user	12m5.379s
+sys	0m0.042s
+openmp 5k 
+
+real	1m42.711s
+user	11m44.129s
+sys	0m0.126s
+openmp 5k 
+
+real	1m51.720s
+user	13m6.501s
+sys	0m0.073s
+openmp 5k 
+
+real	1m46.884s
+user	12m19.371s
+sys	0m0.048s
+openmp 5k 
+
+real	1m27.658s
+user	10m6.892s
+sys	0m0.066s
+openmp 5k 
+END Openmp 5 Threads
+Openmp 12 Threads
+
+real	0m0.832s
+user	0m7.822s
+sys	0m0.017s
+openmp 1k 1
+
+real	0m0.728s
+user	0m6.761s
+sys	0m0.007s
+openmp 1k 2
+
+real	0m0.710s
+user	0m6.658s
+sys	0m0.006s
+openmp 1k 3
+
+real	0m0.711s
+user	0m6.625s
+sys	0m0.009s
+openmp 1k 4
+
+real	0m0.727s
+user	0m6.858s
+sys	0m0.016s
+openmp 1k 5
+
+real	0m40.984s
+user	6m27.194s
+sys	0m0.041s
+openmp 4k 1
+
+real	0m38.527s
+user	6m25.267s
+sys	0m0.046s
+openmp 4k 2
+
+real	0m43.020s
+user	6m50.555s
+sys	0m0.064s
+openmp 4k 3
+
+real	0m45.153s
+user	6m37.681s
+sys	0m0.076s
+openmp 4k 4
+
+real	0m42.788s
+user	7m0.242s
+sys	0m0.076s
+openmp 4k 5
+
+real	1m20.122s
+user	13m37.514s
+sys	0m0.100s
+openmp 5k 
+
+real	1m20.021s
+user	13m22.912s
+sys	0m0.106s
+openmp 5k 
+
+real	1m24.819s
+user	14m28.158s
+sys	0m0.099s
+openmp 5k 
+
+real	1m16.140s
+user	13m28.588s
+sys	0m0.117s
+openmp 5k 
+
+real	1m22.045s
+user	13m41.594s
+sys	0m0.100s
+openmp 5k 
+END Openmp 5 Threads
+Openmp 16 Threads
+
+real	0m0.853s
+user	0m9.480s
+sys	0m0.014s
+openmp 1k 1
+
+real	0m0.684s
+user	0m8.245s
+sys	0m0.010s
+openmp 1k 2
+
+real	0m0.665s
+user	0m8.090s
+sys	0m0.015s
+openmp 1k 3
+
+real	0m0.644s
+user	0m8.157s
+sys	0m0.016s
+openmp 1k 4
+
+real	0m0.698s
+user	0m8.175s
+sys	0m0.018s
+openmp 1k 5
+
+real	0m36.510s
+user	8m39.951s
+sys	0m0.127s
+openmp 4k 1
+
+real	0m37.204s
+user	8m41.787s
+sys	0m0.110s
+openmp 4k 2
+
+real	0m37.066s
+user	8m39.102s
+sys	0m0.109s
+openmp 4k 3
+
+real	0m36.493s
+user	8m40.800s
+sys	0m0.119s
+openmp 4k 4
+
+real	0m36.601s
+user	8m40.509s
+sys	0m0.084s
+openmp 4k 5
+
+real	1m10.061s
+user	16m57.784s
+sys	0m0.187s
+openmp 5k 
+
+real	1m11.337s
+user	16m59.993s
+sys	0m0.204s
+openmp 5k 
+
+real	1m10.075s
+user	17m3.512s
+sys	0m0.188s
+openmp 5k 
+
+real	1m9.916s
+user	17m1.277s
+sys	0m0.195s
+openmp 5k 
+
+real	1m5.657s
+user	17m0.505s
+sys	0m0.232s
+openmp 5k 
+END Openmp 5 Threads
+Openmp 24 Threads
+
+real	0m0.604s
+user	0m8.129s
+sys	0m0.005s
+openmp 1k 1
+
+real	0m0.589s
+user	0m8.044s
+sys	0m0.007s
+openmp 1k 2
+
+real	0m0.594s
+user	0m8.038s
+sys	0m0.012s
+openmp 1k 3
+
+real	0m0.625s
+user	0m7.920s
+sys	0m0.011s
+openmp 1k 4
+
+real	0m0.579s
+user	0m8.099s
+sys	0m0.016s
+openmp 1k 5
+
+real	0m34.078s
+user	8m47.951s
+sys	0m0.101s
+openmp 4k 1
+
+real	0m33.760s
+user	8m48.220s
+sys	0m0.097s
+openmp 4k 2
+
+real	0m34.208s
+user	8m45.834s
+sys	0m0.163s
+openmp 4k 3
+
+real	0m33.648s
+user	8m47.322s
+sys	0m0.113s
+openmp 4k 4
+
+real	0m33.990s
+user	8m46.427s
+sys	0m0.103s
+openmp 4k 5
+
+real	1m11.992s
+user	17m5.397s
+sys	0m1.186s
+openmp 5k 
+
+real	1m9.324s
+user	17m9.074s
+sys	0m0.177s
+openmp 5k 
+
+real	1m6.102s
+user	17m12.902s
+sys	0m0.152s
+openmp 5k 
+
+real	1m6.685s
+user	17m10.103s
+sys	0m0.253s
+openmp 5k 
+
+real	1m5.977s
+user	17m13.989s
+sys	0m0.196s
+openmp 5k 
+END Openmp 5 Threads
