@@ -2,7 +2,7 @@
 
 gcc openmp/openmp-mm.c -o openmp -fopenmp    
 
-iterations
+iterations()
 {
 for i in 1 2 3 4 5
 do
