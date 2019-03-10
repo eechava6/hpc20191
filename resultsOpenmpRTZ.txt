@@ -1,0 +1,848 @@
+Openmp 1 Threads
+
+real	0m0.024s
+user	0m0.002s
+sys	0m0.002s
+Serial 100k iteration: 1
+
+real	0m0.029s
+user	0m0.002s
+sys	0m0.002s
+Serial 100k iteration: 2
+
+real	0m0.026s
+user	0m0.004s
+sys	0m0.001s
+Serial 100k iteration: 3
+
+real	0m0.037s
+user	0m0.003s
+sys	0m0.002s
+Serial 100k iteration: 4
+
+real	0m0.022s
+user	0m0.004s
+sys	0m0.001s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.072s
+user	0m0.024s
+sys	0m0.002s
+Serial 1m iteration: 1
+
+real	0m0.066s
+user	0m0.025s
+sys	0m0.001s
+Serial 1m iteration: 2
+
+real	0m0.072s
+user	0m0.024s
+sys	0m0.002s
+Serial 1m iteration: 3
+
+real	0m0.045s
+user	0m0.025s
+sys	0m0.001s
+Serial 1m iteration: 4
+
+real	0m0.052s
+user	0m0.024s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m3.602s
+user	0m2.358s
+sys	0m0.001s
+Serial 100m iteration: 1
+
+real	0m3.628s
+user	0m2.361s
+sys	0m0.002s
+Serial 100m iteration: 2
+
+real	0m3.614s
+user	0m2.410s
+sys	0m0.001s
+Serial 100m iteration: 3
+
+real	0m3.339s
+user	0m2.360s
+sys	0m0.000s
+Serial 100m iteration: 4
+
+real	0m3.175s
+user	0m2.248s
+sys	0m0.002s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m23.789s
+user	0m18.109s
+sys	0m0.000s
+Serial 1000m iteration: 1
+
+real	0m31.572s
+user	0m22.290s
+sys	0m0.047s
+Serial 1000m iteration: 2
+
+real	0m17.465s
+user	0m17.447s
+sys	0m0.001s
+Serial 1000m iteration: 3
+
+real	0m19.690s
+user	0m19.372s
+sys	0m0.303s
+Serial 1000m iteration: 4
+
+real	0m17.479s
+user	0m17.462s
+sys	0m0.006s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 1 Threads
+Openmp 2 Threads
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.003s
+Serial 100k iteration: 1
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.000s
+Serial 100k iteration: 2
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.001s
+Serial 100k iteration: 3
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.001s
+Serial 100k iteration: 4
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.002s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
+Serial 1m iteration: 1
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
+Serial 1m iteration: 2
+
+real	0m0.015s
+user	0m0.025s
+sys	0m0.002s
+Serial 1m iteration: 3
+
+real	0m0.017s
+user	0m0.025s
+sys	0m0.005s
+Serial 1m iteration: 4
+
+real	0m0.020s
+user	0m0.032s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m1.513s
+user	0m2.387s
+sys	0m0.550s
+Serial 100m iteration: 1
+
+real	0m0.838s
+user	0m1.671s
+sys	0m0.000s
+Serial 100m iteration: 2
+
+real	0m0.827s
+user	0m1.648s
+sys	0m0.002s
+Serial 100m iteration: 3
+
+real	0m0.830s
+user	0m1.651s
+sys	0m0.004s
+Serial 100m iteration: 4
+
+real	0m0.826s
+user	0m1.644s
+sys	0m0.002s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m8.230s
+user	0m16.448s
+sys	0m0.002s
+Serial 1000m iteration: 1
+
+real	0m8.232s
+user	0m16.452s
+sys	0m0.002s
+Serial 1000m iteration: 2
+
+real	0m10.562s
+user	0m20.472s
+sys	0m0.067s
+Serial 1000m iteration: 3
+
+real	0m8.677s
+user	0m17.279s
+sys	0m0.001s
+Serial 1000m iteration: 4
+
+real	0m8.273s
+user	0m16.505s
+sys	0m0.005s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 2 Threads
+Openmp 3 Threads
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.004s
+Serial 100k iteration: 1
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.001s
+Serial 100k iteration: 2
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.001s
+Serial 100k iteration: 3
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.002s
+Serial 100k iteration: 4
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.000s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.008s
+user	0m0.019s
+sys	0m0.001s
+Serial 1m iteration: 1
+
+real	0m0.008s
+user	0m0.019s
+sys	0m0.001s
+Serial 1m iteration: 2
+
+real	0m0.008s
+user	0m0.020s
+sys	0m0.000s
+Serial 1m iteration: 3
+
+real	0m0.008s
+user	0m0.020s
+sys	0m0.001s
+Serial 1m iteration: 4
+
+real	0m0.008s
+user	0m0.019s
+sys	0m0.001s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.595s
+user	0m1.768s
+sys	0m0.003s
+Serial 100m iteration: 1
+
+real	0m0.588s
+user	0m1.755s
+sys	0m0.000s
+Serial 100m iteration: 2
+
+real	0m0.593s
+user	0m1.761s
+sys	0m0.002s
+Serial 100m iteration: 3
+
+real	0m0.587s
+user	0m1.754s
+sys	0m0.000s
+Serial 100m iteration: 4
+
+real	0m0.587s
+user	0m1.752s
+sys	0m0.001s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m5.863s
+user	0m17.524s
+sys	0m0.001s
+Serial 1000m iteration: 1
+
+real	0m5.857s
+user	0m17.508s
+sys	0m0.001s
+Serial 1000m iteration: 2
+
+real	0m5.858s
+user	0m17.506s
+sys	0m0.003s
+Serial 1000m iteration: 3
+
+real	0m5.908s
+user	0m17.593s
+sys	0m0.004s
+Serial 1000m iteration: 4
+
+real	0m5.838s
+user	0m17.482s
+sys	0m0.003s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 3 Threads
+Openmp 4 Threads
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.003s
+Serial 100k iteration: 1
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.004s
+Serial 100k iteration: 2
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.002s
+Serial 100k iteration: 3
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.001s
+Serial 100k iteration: 4
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.001s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.007s
+user	0m0.020s
+sys	0m0.000s
+Serial 1m iteration: 1
+
+real	0m0.007s
+user	0m0.019s
+sys	0m0.001s
+Serial 1m iteration: 2
+
+real	0m0.007s
+user	0m0.022s
+sys	0m0.000s
+Serial 1m iteration: 3
+
+real	0m0.007s
+user	0m0.019s
+sys	0m0.001s
+Serial 1m iteration: 4
+
+real	0m0.007s
+user	0m0.018s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.446s
+user	0m1.770s
+sys	0m0.001s
+Serial 100m iteration: 1
+
+real	0m0.441s
+user	0m1.755s
+sys	0m0.000s
+Serial 100m iteration: 2
+
+real	0m0.447s
+user	0m1.766s
+sys	0m0.001s
+Serial 100m iteration: 3
+
+real	0m0.443s
+user	0m1.760s
+sys	0m0.002s
+Serial 100m iteration: 4
+
+real	0m0.441s
+user	0m1.751s
+sys	0m0.003s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m4.405s
+user	0m17.547s
+sys	0m0.004s
+Serial 1000m iteration: 1
+
+real	0m4.404s
+user	0m17.546s
+sys	0m0.005s
+Serial 1000m iteration: 2
+
+real	0m4.406s
+user	0m17.557s
+sys	0m0.002s
+Serial 1000m iteration: 3
+
+real	0m4.403s
+user	0m17.556s
+sys	0m0.003s
+Serial 1000m iteration: 4
+
+real	0m4.402s
+user	0m17.538s
+sys	0m0.006s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 4 Threads
+Openmp 8 Threads
+
+real	0m0.004s
+user	0m0.009s
+sys	0m0.000s
+Serial 100k iteration: 1
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.006s
+Serial 100k iteration: 2
+
+real	0m0.003s
+user	0m0.005s
+sys	0m0.001s
+Serial 100k iteration: 3
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.003s
+Serial 100k iteration: 4
+
+real	0m0.003s
+user	0m0.005s
+sys	0m0.001s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.006s
+user	0m0.029s
+sys	0m0.001s
+Serial 1m iteration: 1
+
+real	0m0.005s
+user	0m0.029s
+sys	0m0.000s
+Serial 1m iteration: 2
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.002s
+Serial 1m iteration: 3
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.001s
+Serial 1m iteration: 4
+
+real	0m0.006s
+user	0m0.029s
+sys	0m0.000s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.308s
+user	0m2.032s
+sys	0m0.002s
+Serial 100m iteration: 1
+
+real	0m0.316s
+user	0m2.014s
+sys	0m0.002s
+Serial 100m iteration: 2
+
+real	0m0.319s
+user	0m2.027s
+sys	0m0.001s
+Serial 100m iteration: 3
+
+real	0m0.317s
+user	0m2.022s
+sys	0m0.009s
+Serial 100m iteration: 4
+
+real	0m0.321s
+user	0m2.043s
+sys	0m0.004s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m3.116s
+user	0m21.569s
+sys	0m0.002s
+Serial 1000m iteration: 1
+
+real	0m2.980s
+user	0m19.755s
+sys	0m0.005s
+Serial 1000m iteration: 2
+
+real	0m3.185s
+user	0m21.766s
+sys	0m0.000s
+Serial 1000m iteration: 3
+
+real	0m2.598s
+user	0m19.158s
+sys	0m0.003s
+Serial 1000m iteration: 4
+
+real	0m2.896s
+user	0m19.635s
+sys	0m0.005s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 8 Threads
+Openmp 12 Threads
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.005s
+Serial 100k iteration: 1
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.004s
+Serial 100k iteration: 2
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.004s
+Serial 100k iteration: 3
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.005s
+Serial 100k iteration: 4
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.007s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.005s
+user	0m0.025s
+sys	0m0.006s
+Serial 1m iteration: 1
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.002s
+Serial 1m iteration: 2
+
+real	0m0.005s
+user	0m0.031s
+sys	0m0.000s
+Serial 1m iteration: 3
+
+real	0m0.005s
+user	0m0.029s
+sys	0m0.003s
+Serial 1m iteration: 4
+
+real	0m0.005s
+user	0m0.029s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.271s
+user	0m2.879s
+sys	0m0.007s
+Serial 100m iteration: 1
+
+real	0m0.273s
+user	0m2.906s
+sys	0m0.001s
+Serial 100m iteration: 2
+
+real	0m0.255s
+user	0m2.756s
+sys	0m0.002s
+Serial 100m iteration: 3
+
+real	0m0.224s
+user	0m2.414s
+sys	0m0.002s
+Serial 100m iteration: 4
+
+real	0m0.225s
+user	0m2.409s
+sys	0m0.001s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m2.277s
+user	0m25.838s
+sys	0m0.002s
+Serial 1000m iteration: 1
+
+real	0m2.245s
+user	0m24.566s
+sys	0m0.013s
+Serial 1000m iteration: 2
+
+real	0m2.213s
+user	0m24.236s
+sys	0m0.004s
+Serial 1000m iteration: 3
+
+real	0m2.185s
+user	0m24.069s
+sys	0m0.004s
+Serial 1000m iteration: 4
+
+real	0m2.207s
+user	0m24.586s
+sys	0m0.017s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 12 Threads
+Openmp 16 Threads
+
+real	0m0.011s
+user	0m0.099s
+sys	0m0.002s
+Serial 100k iteration: 1
+
+real	0m0.008s
+user	0m0.076s
+sys	0m0.002s
+Serial 100k iteration: 2
+
+real	0m0.008s
+user	0m0.074s
+sys	0m0.004s
+Serial 100k iteration: 3
+
+real	0m0.008s
+user	0m0.077s
+sys	0m0.001s
+Serial 100k iteration: 4
+
+real	0m0.008s
+user	0m0.076s
+sys	0m0.002s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.011s
+user	0m0.100s
+sys	0m0.002s
+Serial 1m iteration: 1
+
+real	0m0.011s
+user	0m0.101s
+sys	0m0.002s
+Serial 1m iteration: 2
+
+real	0m0.013s
+user	0m0.134s
+sys	0m0.002s
+Serial 1m iteration: 3
+
+real	0m0.011s
+user	0m0.099s
+sys	0m0.004s
+Serial 1m iteration: 4
+
+real	0m0.011s
+user	0m0.100s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.253s
+user	0m2.615s
+sys	0m0.014s
+Serial 100m iteration: 1
+
+real	0m0.230s
+user	0m2.676s
+sys	0m0.008s
+Serial 100m iteration: 2
+
+real	0m0.211s
+user	0m2.640s
+sys	0m0.006s
+Serial 100m iteration: 3
+
+real	0m0.236s
+user	0m2.714s
+sys	0m0.003s
+Serial 100m iteration: 4
+
+real	0m0.231s
+user	0m2.632s
+sys	0m0.027s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m2.011s
+user	0m25.745s
+sys	0m0.019s
+Serial 1000m iteration: 1
+
+real	0m2.038s
+user	0m25.705s
+sys	0m0.007s
+Serial 1000m iteration: 2
+
+real	0m2.046s
+user	0m25.748s
+sys	0m0.005s
+Serial 1000m iteration: 3
+
+real	0m1.931s
+user	0m25.699s
+sys	0m0.007s
+Serial 1000m iteration: 4
+
+real	0m2.015s
+user	0m25.562s
+sys	0m0.008s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 16 Threads
+Openmp 24 Threads
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.004s
+Serial 100k iteration: 1
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.005s
+Serial 100k iteration: 2
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.005s
+Serial 100k iteration: 3
+
+real	0m0.006s
+user	0m0.008s
+sys	0m0.000s
+Serial 100k iteration: 4
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.003s
+Serial 100k iteration: 5
+_____________________________
+
+real	0m0.006s
+user	0m0.024s
+sys	0m0.004s
+Serial 1m iteration: 1
+
+real	0m0.008s
+user	0m0.018s
+sys	0m0.009s
+Serial 1m iteration: 2
+
+real	0m0.006s
+user	0m0.020s
+sys	0m0.004s
+Serial 1m iteration: 3
+
+real	0m0.006s
+user	0m0.025s
+sys	0m0.002s
+Serial 1m iteration: 4
+
+real	0m0.005s
+user	0m0.023s
+sys	0m0.002s
+Serial 1m iteration: 5
+_____________________________
+
+real	0m0.241s
+user	0m3.027s
+sys	0m0.007s
+Serial 100m iteration: 1
+
+real	0m0.236s
+user	0m3.025s
+sys	0m0.009s
+Serial 100m iteration: 2
+
+real	0m0.209s
+user	0m2.579s
+sys	0m0.002s
+Serial 100m iteration: 3
+
+real	0m0.202s
+user	0m2.592s
+sys	0m0.003s
+Serial 100m iteration: 4
+
+real	0m0.201s
+user	0m2.557s
+sys	0m0.003s
+Serial 100m iteration: 5
+_____________________________
+
+real	0m1.860s
+user	0m25.614s
+sys	0m0.004s
+Serial 1000m iteration: 1
+
+real	0m1.882s
+user	0m25.757s
+sys	0m0.006s
+Serial 1000m iteration: 2
+
+real	0m1.951s
+user	0m25.626s
+sys	0m0.006s
+Serial 1000m iteration: 3
+
+real	0m1.863s
+user	0m25.771s
+sys	0m0.027s
+Serial 1000m iteration: 4
+
+real	0m1.829s
+user	0m25.809s
+sys	0m0.030s
+Serial 1000m iteration: 5
+_____________________________
+END Openmp 24 Threads
