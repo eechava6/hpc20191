@@ -59,15 +59,7 @@ main(int argc, char const *argv[])
     }
 
     stop = MPI_Wtime();
-
-    printf("Here is the result matrix:\n");
-    for (i=0; i<N; i++) {
-      for (j=0; j<N; j++)
-        printf("%6.2f   ", c[i][j]);
-      printf ("\n");
-    }
-
-    printf("TOTAL time: %lf\n", stop - start);
+    printf("%lf\n", stop - start);
   }
 
   /*---------------------------- worker----------------------------*/
