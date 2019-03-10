@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gcc serial/serial-rzf.c -o rzfserial
+g++ serial/serial-rzf.c -o rzfserial
 
 for i in 1 2 3 4 5
 do
