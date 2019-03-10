@@ -1,0 +1,180 @@
+NP 2
+
+ MPI 4k
+TOTAL time: 9.547768
+TOTAL time: 9.550905
+TOTAL time: 9.429687
+
+ MPI 5k
+TOTAL time: 9.609908
+TOTAL time: 9.955913
+TOTAL time: 9.454059
+
+ MPI 10k
+TOTAL time: 10.093989
+TOTAL time: 9.659304
+TOTAL time: 9.295241
+_______________________________
+
+NP 3
+
+ MPI 4k
+TOTAL time: 8.902364
+TOTAL time: 8.638975
+TOTAL time: 8.725420
+
+ MPI 5k
+TOTAL time: 8.401907
+TOTAL time: 8.447500
+TOTAL time: 8.366858
+
+ MPI 10k
+TOTAL time: 8.682503
+TOTAL time: 8.553406
+TOTAL time: 8.556664
+_______________________________
+
+NP 4
+
+ MPI 4k
+TOTAL time: 7.291569
+TOTAL time: 7.257471
+TOTAL time: 7.181560
+
+ MPI 5k
+TOTAL time: 7.106814
+TOTAL time: 7.042069
+TOTAL time: 7.109982
+
+ MPI 10k
+TOTAL time: 7.218208
+TOTAL time: 7.133699
+TOTAL time: 7.117384
+_______________________________
+
+NP 8
+
+ MPI 4k
+TOTAL time: 7.104453
+TOTAL time: 7.213652
+TOTAL time: 6.837324
+
+ MPI 5k
+TOTAL time: 6.880795
+TOTAL time: 6.885173
+TOTAL time: 7.356569
+
+ MPI 10k
+TOTAL time: 7.040606
+TOTAL time: 7.067789
+TOTAL time: 7.183766
+_______________________________
+
+NP 12
+
+ MPI 4k
+TOTAL time: 7.156680
+TOTAL time: 7.141986
+TOTAL time: 7.317433
+
+ MPI 5k
+TOTAL time: 7.242869
+TOTAL time: 7.204288
+TOTAL time: 7.264093
+
+ MPI 10k
+TOTAL time: 9.872502
+TOTAL time: 7.224904
+TOTAL time: 7.409459
+_______________________________
+
+NP 16
+
+ MPI 4k
+TOTAL time: 10.036768
+TOTAL time: 7.185277
+TOTAL time: 7.165500
+
+ MPI 5k
+TOTAL time: 7.220122
+TOTAL time: 7.116897
+TOTAL time: 7.066007
+
+ MPI 10k
+TOTAL time: 7.211581
+TOTAL time: 7.092749
+TOTAL time: 7.005608
+_______________________________
+
+NP 32
+
+ MPI 4k
+TOTAL time: 7.536424
+TOTAL time: 10.217886
+TOTAL time: 8.404170
+
+ MPI 5k
+TOTAL time: 10.341640
+TOTAL time: 10.432950
+TOTAL time: 7.922510
+
+ MPI 10k
+TOTAL time: 8.995398
+TOTAL time: 8.933772
+TOTAL time: 10.293890
+_______________________________
+
+NP 48
+
+ MPI 4k
+TOTAL time: 10.717282
+TOTAL time: 10.740738
+TOTAL time: 10.742136
+
+ MPI 5k
+TOTAL time: 10.708444
+TOTAL time: 10.718188
+TOTAL time: 10.963076
+
+ MPI 10k
+TOTAL time: 10.714585
+TOTAL time: 10.715743
+TOTAL time: 10.794508
+_______________________________
+
+NP 64
+
+ MPI 4k
+TOTAL time: 31.085809
+TOTAL time: 34.016098
+TOTAL time: 32.832060
+
+ MPI 5k
+TOTAL time: 31.380456
+TOTAL time: 31.057289
+TOTAL time: 33.673189
+
+ MPI 10k
+TOTAL time: 31.377849
+TOTAL time: 29.912951
+TOTAL time: 30.787896
+_______________________________
+
+NP 70
+
+ MPI 4k
+TOTAL time: 36.419361
+TOTAL time: 41.577690
+TOTAL time: 36.751595
+
+ MPI 5k
+TOTAL time: 40.918622
+TOTAL time: 36.839167
+TOTAL time: 37.742257
+
+ MPI 10k
+TOTAL time: 41.985117
+TOTAL time: 38.696856
+TOTAL time: 35.521658
+_______________________________
+
