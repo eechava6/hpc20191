@@ -30,7 +30,7 @@ done
 }
 
 
-for i in 4 8 12 16 24
+for i in 1 2 3 4 8 12 16 24
 do
   >&2 echo "Openmp $i Threads"
   echo "THREADS = $i"
