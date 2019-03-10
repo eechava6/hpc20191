@@ -1,4 +1,4 @@
-./serialRZF.sh: line 1: B#!/bin/bash: No such file or directory
+
 
 real	0m0.030s
 user	0m0.003s
