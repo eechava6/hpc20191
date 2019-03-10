@@ -10,20 +10,20 @@ np=$1
 echo "\n MPI 1k"
 for i in 1 2 3
 do
-  mpirun -$np $ -f hosts_mpi  ./mmMPI 1000
+  mpirun -$np -f hosts_mpi  ./mmMPI 1000
 done
 
 
 echo "\n MPI 4k"
 for i in 1 2 3 
 do
-   mpirun -$np $ -f hosts_mpi  ./mmMPI 4000
+   mpirun -$np -f hosts_mpi  ./mmMPI 4000
 done
 
 echo "\n MPI 5k"
 for i in 1 2 3 
 do
-   mpirun -$np $ -f hosts_mpi  ./mmMPI 5000
+   mpirun -$np -f hosts_mpi  ./mmMPI 5000
 done
 
 }
